@@ -10,7 +10,7 @@ Language used: html,css and javascript.
 
 ## File Structure
 
-```index.html```:The main HTML file for the weather application.</br>
+```task5.html```:The main HTML file for the weather application.</br>
 ```style.css```:Directory containing CSS stylesheets.</br>
 ```script.js```:Directory containing JavaScript files.
 
